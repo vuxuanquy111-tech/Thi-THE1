@@ -1,0 +1,12 @@
+THI TRẮC NGHIỆM TH1E
+
+CÁCH CHẠY THỬ: mở index.html trên máy tính (một số tính năng PWA chỉ hoạt động khi chạy qua HTTPS).
+
+TRIỂN KHAI LINK RIÊNG BẰNG GITHUB PAGES:
+1. Tạo repository mới, ví dụ thi-trac-nghiem-th1e.
+2. Upload trực tiếp các file index.html, banks.js, app.js, manifest.webmanifest, sw.js lên thư mục gốc (không upload ZIP, không để trong thư mục con).
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Mở URL GitHub Pages được cấp.
+5. Android Chrome: menu ⋮ > Add to Home screen. iPhone Safari: Share > Add to Home Screen.
+
+LƯU Ý: lịch sử và câu sai được lưu cục bộ trên trình duyệt/thiết bị; không tự đồng bộ giữa các thiết bị. Đáp án được đọc từ lựa chọn in đậm trong file Word nguồn.

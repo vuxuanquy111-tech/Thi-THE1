@@ -1,0 +1,9 @@
+{
+  "name": "Thi trắc nghiệm TH1E",
+  "short_name": "TH1E",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#3157C8",
+  "description": "Ôn tập và thi thử 3 môn TH1E"
+}
